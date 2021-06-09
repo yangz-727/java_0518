@@ -193,11 +193,13 @@
 		
 	git : 소스 코드 저장소
 	
-	1. 회원가입
+	1. window -> show view -> other -> git -> git repositories -> clone a git repositories ->url 복사 후 복붙
+	2. 프로젝젝트 우클릭 -> team -> share project -> 레파지토리 선택
+	3. team -> commit -> + -> message -> commit and push
 	
-	1. window -> show view -> other -> git -> git repositories -> clone
-	
-	
+	깃 끌어오기
+	1. window -> show view -> other -> git -> git repositories -> clone a git repositories ->url 복사 후 복붙
+	2. Working Tree -> 프로젝트 우클릭 -> import project
 	
 	
 		
