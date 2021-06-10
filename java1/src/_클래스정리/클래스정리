@@ -187,8 +187,13 @@
 		3. LinkedList
 
 	11. Set	: 순서 없는 저장
-	 	1. HashMap
+	 	1. HashSet
+	 	
 	12. Map : 키, 값 => 한쌍
+		1. HashMap : 동기화 X
+		2. HashTable : 동기화 O
+		
+		
 		
 		
 	git : 소스 코드 저장소
